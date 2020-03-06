@@ -7,3 +7,7 @@ The Permian–Triassic extinction event, also known as the P–Tr extinction,[2]
 # Commit 2
 
 There is evidence for one to three distinct pulses, or phases, of extinction.[8][9][10][11] Potential causes for those pulses include one or more large meteor impact events, massive volcanic eruptions (such as the Siberian Traps[12]), and climate change brought on by large releases of underwater methane or methane-producing microbes.[13]
+
+# Commit 3
+
+The speed of the recovery from the extinction is disputed. Some scientists estimate that it took 10 million years (until the Middle Triassic), due both to the severity of the extinction and because grim conditions returned periodically for another 5 million years.[14] However, studies in Bear Lake County, near Paris, Idaho, showed a relatively quick rebound in a localized Early Triassic marine ecosystem, taking around 2 million years to recover,[15] suggesting that the impact of the extinction may have been felt less severely in some areas than others.
