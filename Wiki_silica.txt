@@ -3,3 +3,7 @@
 # Commit 1
 
 The silica cycle is the biogeochemical cycle in which silica is transported between the Earth's systems. Opal silica (SiO2) is a chemical compound of silicon, and is also called silicon dioxide. Silicon is considered a bioessential element and is one of the most abundant elements on Earth.[1][2] The silica cycle has significant overlap with the carbon cycle (see Carbonate-Silicate cycle) and plays an important role in the sequestration of carbon through continental weathering, biogenic export and burial as oozes on geologic timescales.[3]
+
+# Commit 2
+
+Silica is an important nutrient utilized by plants, trees, and grasses in the terrestrial biosphere. Silicate is transported by rivers and can be deposited in soils in the form of various siliceous polymorphs. Plants can readily uptake silicate in the form of H4SiO4 for the formation of phytoliths. Phytoliths are tiny rigid structures found within plant cells that aid in the structural integrity of the plant.[1]  Phytoliths also serve to protect the plants from consumption by herbivores who are unable to consume and digest silica-rich plants efficiently.[1] Silica release from phytolith degradation or dissolution is estimated to occur at a rate double that of global silicate mineral weathering.[2] Considering biogeochemical cycling within ecosystems, the import and export of silica to and from terrestrial ecosystems is small.

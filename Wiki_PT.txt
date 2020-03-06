@@ -3,3 +3,7 @@
 # Commit 1
 
 The Permian–Triassic extinction event, also known as the P–Tr extinction,[2] the P–T extinction,[3] the End-Permian Extinction,[4] and colloquially as the Great Dying,[5] formed the boundary between the Permian and Triassic geologic periods, as well as between the Paleozoic and Mesozoic eras, approximately 252 million years ago. It is the Earth's most severe known extinction event, with up to 96% of all marine species[6][7] and 70% of terrestrial vertebrate species becoming extinct.[8] It was the largest known mass extinction of insects. Some 57% of all biological families and 83% of all genera became extinct.
+
+# Commit 2
+
+There is evidence for one to three distinct pulses, or phases, of extinction.[8][9][10][11] Potential causes for those pulses include one or more large meteor impact events, massive volcanic eruptions (such as the Siberian Traps[12]), and climate change brought on by large releases of underwater methane or methane-producing microbes.[13]
