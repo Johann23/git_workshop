@@ -1,0 +1,5 @@
+# Git: https://en.wikipedia.org/wiki/Silica_cycle
+
+# Commit 1
+
+The silica cycle is the biogeochemical cycle in which silica is transported between the Earth's systems. Opal silica (SiO2) is a chemical compound of silicon, and is also called silicon dioxide. Silicon is considered a bioessential element and is one of the most abundant elements on Earth.[1][2] The silica cycle has significant overlap with the carbon cycle (see Carbonate-Silicate cycle) and plays an important role in the sequestration of carbon through continental weathering, biogenic export and burial as oozes on geologic timescales.[3]
